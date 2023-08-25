@@ -131,12 +131,12 @@ if __name__ == "__main__":
 
 
     # Display team assignments and participant probabilities using the DataFrame
-    for index, row in assignments_df.iterrows():
+    for _, row in assignments_df.iterrows():
         print(f"{row['Participant']} was assigned to team: {row['Country']}")
         
     print("-------------------------")
 
-    for index, row in assignments_df.iterrows():
+    for _, row in assignments_df.iterrows():
         print(f"{row['Participant']} has a {row['Odds']*100:.2f}% chance of having a winning team.")
 
     print(assignments_df)
