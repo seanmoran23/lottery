@@ -1,6 +1,6 @@
-# Rugby Team Assignment and Probability Calculator
+# Rugby World Cup Team Assignment and Probability Calculator
 
-This Python script is designed to assign rugby teams to participants randomly and calculate their probability of having a winning team based on implied probabilities from team odds.
+This Python script is designed to assign rugby teams qualified in the Rugby World Cup 2023 to participants randomly and calculate the participants probability of having a winning team based on implied probabilities from team odds.
 
 ## Requirements
 
@@ -32,6 +32,7 @@ This Python script is designed to assign rugby teams to participants randomly an
 ## Acknowledgements
 
 The rugby team data used in this script is based on [World Rugby Rankings](https://www.world.rugby/tournaments/rankings/mru).
+The rugby betting odds used in this script is based on [bet365](https://www.vegasinsider.com/odds/rugby-world-cup/).
 
 ## License
 
