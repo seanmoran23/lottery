@@ -1,0 +1,119 @@
+sean.moran@M-PCQWPCVP62 lottery % python3 rugby.py
+Aisling was assigned to team: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+Bróna was assigned to team: 🇦🇷 Argentina
+Ciarán was assigned to team: 🇬🇪 Georgia
+Conor Birkett was assigned to team: 🇦🇺 Australia
+Conor Byrne was assigned to team: 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+Félim was assigned to team: 🇮🇪 Ireland
+Paul was assigned to team: 🇼🇸 Samoa
+Peadar was assigned to team: 🇳🇿 New Zealand
+Sadhbh was assigned to team: 🇫🇷 France
+Seán was assigned to team: 🇿🇦 South Africa
+Shauna was assigned to team: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Stuart was assigned to team: 🇫🇯 Fiji
+-------------------------
+Aisling has a 1.71% chance of having a winning team.
+Bróna has a 2.73% chance of having a winning team.
+Ciarán has a 0.14% chance of having a winning team.
+Conor Birkett has a 6.84% chance of having a winning team.
+Conor Byrne has a 2.07% chance of having a winning team.
+Félim has a 13.67% chance of having a winning team.
+Paul has a 0.14% chance of having a winning team.
+Peadar has a 27.35% chance of having a winning team.
+Sadhbh has a 22.79% chance of having a winning team.
+Seán has a 15.19% chance of having a winning team.
+Shauna has a 6.22% chance of having a winning team.
+Stuart has a 0.46% chance of having a winning team.
+      Participant           Country      Odds
+0         Aisling  🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland  0.017094
+2           Bróna      🇦🇷 Argentina  0.027350
+3          Ciarán        🇬🇪 Georgia  0.001367
+5   Conor Birkett      🇦🇺 Australia  0.068374
+4     Conor Byrne     🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales  0.020720
+6           Félim        🇮🇪 Ireland  0.136749
+7            Paul          🇼🇸 Samoa  0.001367
+1          Peadar    🇳🇿 New Zealand  0.273498
+8          Sadhbh         🇫🇷 France  0.227915
+9            Seán   🇿🇦 South Africa  0.151943
+10         Shauna   🏴󠁧󠁢󠁥󠁮󠁧󠁿 England  0.062159
+11         Stuart           🇫🇯 Fiji  0.004558
+
+sean.moran@M-PCQWPCVP62 lottery % python3 rugby.py
+Aisling was assigned to team: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+Bróna was assigned to team: 🇫🇯 Fiji
+Ciarán was assigned to team: 🇮🇪 Ireland
+Conor Birkett was assigned to team: 🇫🇷 France
+Conor Byrne was assigned to team: 🇿🇦 South Africa
+Félim was assigned to team: 🇬🇪 Georgia
+Paul was assigned to team: 🇦🇺 Australia
+Peadar was assigned to team: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Sadhbh was assigned to team: 🇼🇸 Samoa
+Seán was assigned to team: 🇦🇷 Argentina
+Shauna was assigned to team: 🇳🇿 New Zealand
+Stuart was assigned to team: 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+-------------------------
+Aisling has a 1.71% chance of having a winning team.
+Bróna has a 0.46% chance of having a winning team.
+Ciarán has a 13.67% chance of having a winning team.
+Conor Birkett has a 22.79% chance of having a winning team.
+Conor Byrne has a 15.19% chance of having a winning team.
+Félim has a 0.14% chance of having a winning team.
+Paul has a 6.84% chance of having a winning team.
+Peadar has a 6.22% chance of having a winning team.
+Sadhbh has a 0.14% chance of having a winning team.
+Seán has a 2.73% chance of having a winning team.
+Shauna has a 27.35% chance of having a winning team.
+Stuart has a 2.07% chance of having a winning team.
+      Participant           Country      Odds
+0         Aisling  🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland  0.017094
+2           Bróna           🇫🇯 Fiji  0.004558
+3          Ciarán        🇮🇪 Ireland  0.136749
+5   Conor Birkett         🇫🇷 France  0.227915
+4     Conor Byrne   🇿🇦 South Africa  0.151943
+6           Félim        🇬🇪 Georgia  0.001367
+7            Paul      🇦🇺 Australia  0.068374
+1          Peadar   🏴󠁧󠁢󠁥󠁮󠁧󠁿 England  0.062159
+8          Sadhbh          🇼🇸 Samoa  0.001367
+9            Seán      🇦🇷 Argentina  0.027350
+10         Shauna    🇳🇿 New Zealand  0.273498
+11         Stuart     🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales  0.020720
+
+sean.moran@M-PCQWPCVP62 lottery % python3 rugby.py
+Aisling was assigned to team: 🇫🇷 France
+Bróna was assigned to team: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+Ciarán was assigned to team: 🇼🇸 Samoa
+Conor Birkett was assigned to team: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+Conor Byrne was assigned to team: 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+Félim was assigned to team: 🇬🇪 Georgia
+Paul was assigned to team: 🇿🇦 South Africa
+Peadar was assigned to team: 🇫🇯 Fiji
+Sadhbh was assigned to team: 🇳🇿 New Zealand
+Seán was assigned to team: 🇮🇪 Ireland
+Shauna was assigned to team: 🇦🇺 Australia
+Stuart was assigned to team: 🇦🇷 Argentina
+-------------------------
+Aisling has a 22.79% chance of having a winning team.
+Bróna has a 6.22% chance of having a winning team.
+Ciarán has a 0.14% chance of having a winning team.
+Conor Birkett has a 1.71% chance of having a winning team.
+Conor Byrne has a 2.07% chance of having a winning team.
+Félim has a 0.14% chance of having a winning team.
+Paul has a 15.19% chance of having a winning team.
+Peadar has a 0.46% chance of having a winning team.
+Sadhbh has a 27.35% chance of having a winning team.
+Seán has a 13.67% chance of having a winning team.
+Shauna has a 6.84% chance of having a winning team.
+Stuart has a 2.73% chance of having a winning team.
+      Participant           Country      Odds
+0         Aisling         🇫🇷 France  0.227915
+2           Bróna   🏴󠁧󠁢󠁥󠁮󠁧󠁿 England  0.062159
+3          Ciarán          🇼🇸 Samoa  0.001367
+5   Conor Birkett  🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland  0.017094
+4     Conor Byrne     🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales  0.020720
+6           Félim        🇬🇪 Georgia  0.001367
+7            Paul   🇿🇦 South Africa  0.151943
+1          Peadar           🇫🇯 Fiji  0.004558
+8          Sadhbh    🇳🇿 New Zealand  0.273498
+9            Seán        🇮🇪 Ireland  0.136749
+10         Shauna      🇦🇺 Australia  0.068374
+11         Stuart      🇦🇷 Argentina  0.027350

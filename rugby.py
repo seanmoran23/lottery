@@ -100,20 +100,15 @@ if __name__ == "__main__":
 
     num_teams_per_participant = len(teams) // len(participants)
     
-    # Splitting teams based on rank
-    tier_one = teams[:12]
-    tier_two = teams[20:]
+    # Get teams based on rank
+    teams = teams[:12]
 
-    tier_one_assignments = assign_teams_randomly(participants, 1, tier_one)
-    tier_two_assignments = assign_teams_randomly(participants, 1, tier_two)
-    # Combining the two assignments
-    team_assignments = {
-        participant: tier_one_assignments[participant] + tier_two_assignments[participant]
-        for participant in participants
-    }
+    team_assignments = assign_teams_randomly(participants, 1, teams)
 
     implied_probabilities = calculate_implied_probabilities()
+
     participant_probabilities = calculate_odds(team_assignments, implied_probabilities)
+    
     team_dict = {team['Country']: team for team in teams}
 
     # Create a list to store assignment data
@@ -128,7 +123,6 @@ if __name__ == "__main__":
     # Add the odds column to the DataFrame
     assignments_df = assignments_df.assign(Odds=[participant_probabilities[participant] for participant in assignments_df["Participant"]])
     assignments_df = assignments_df.sort_values(by="Participant")
-
 
     # Display team assignments and participant probabilities using the DataFrame
     for _, row in assignments_df.iterrows():
